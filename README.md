@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+Until I actually start spending time curating my presence on GitHub, you'll find much better #content by following me on [@atcrawford](http://twitter.com/atcrawford) 🚀
 
 <!--
 **atcrawford/atcrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
